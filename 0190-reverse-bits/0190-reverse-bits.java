@@ -19,7 +19,7 @@ class Solution {
             ans= ans+sb.charAt(i)-'0';
             ans= ans*2;
         }
-        for(int i=sb.length(); i<31 ; i++ )
+        for(int i=sb.length()+1; i<32 ; i++ )
         {
             ans= ans*2;
         }
