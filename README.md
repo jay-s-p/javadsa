@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jay-s-p/javadsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jay-s-p/javadsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jay-s-p/javadsa/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jay-s-p/javadsa/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jay-s-p/javadsa/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
