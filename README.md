@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jay-s-p/javadsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jay-s-p/javadsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jay-s-p/javadsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jay-s-p/javadsa/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/jay-s-p/javadsa/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,8 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jay-s-p/javadsa/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
