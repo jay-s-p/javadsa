@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jay-s-p/javadsa/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/jay-s-p/javadsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -46,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jay-s-p/javadsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jay-s-p/javadsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
