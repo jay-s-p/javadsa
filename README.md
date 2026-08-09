@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jay-s-p/javadsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/jay-s-p/javadsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/jay-s-p/javadsa/tree/master/0704-binary-search) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jay-s-p/javadsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jay-s-p/javadsa/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/jay-s-p/javadsa/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
